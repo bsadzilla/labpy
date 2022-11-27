@@ -63,7 +63,8 @@ if List.lower() == 't':
 ```
 
 - Disini apabila kita menginputkan 't' maka kita akan diminta untuk menginputkan beberapa data. Data yang kita inputkan akan masuk ke dictionary 'Data' yang telah dibuat tadi dengan data 'nama' sebagai keys dan sisanya sebagai values.
-![gambar1](gambar/3.png)
+![image](https://user-images.githubusercontent.com/115977033/204144746-fa2ff848-1230-4e24-b40b-fde14268d7d2.png)
+
 
 - Membuat syntax untuk mengubah data.
 ```
