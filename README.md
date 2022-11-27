@@ -30,7 +30,8 @@ print(telp.values())
 ```
 print(telp.items())
 ```
-![gambar1](gambar/2.png)
+![image](https://user-images.githubusercontent.com/115977033/204144680-fe5a51a2-7e22-4edc-acf9-929c4c8707d6.png)
+
 
 - Hapus kontak Dina.
 ```
